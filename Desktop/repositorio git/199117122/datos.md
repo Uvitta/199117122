@@ -1,0 +1,4 @@
+- Nombre: Nicolle Ojeda
+- RUT: 19.911.712-2
+- Cuenta: Uvitta
+- Correo asociado: nicolle.ojeda.o@mail.pucv.cl
